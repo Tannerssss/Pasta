@@ -1,0 +1,21 @@
+Project: Photo Editing Task
+Client: Jane Doe
+Date: August 21, 2024
+
+Task List:
+1. Edit 5 portrait photos
+2. Adjust lighting and contrast
+3. Retouch blemishes and skin imperfections
+4. Provide final images in both JPEG and PNG formats
+
+Deadline: August 25, 2024
+
+Notes:
+- Focus on natural skin tones.
+- Ensure high resolution for all images.
+- Contact client for approval before final delivery.
+
+---
+Contact Information:
+Name: [Your Name]
+Email: [Your Email Address]
