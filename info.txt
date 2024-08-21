@@ -1,5 +1,5 @@
 Project: Photo Editing Task
-Client: Jane Doe
+Client: John Dela Cruz
 Date: August 21, 2024
 
 Task List:
@@ -15,7 +15,6 @@ Notes:
 - Ensure high resolution for all images.
 - Contact client for approval before final delivery.
 
----
 Contact Information:
-Name: [Your Name]
-Email: [Your Email Address]
+Name: Tristan Balce
+Email: balcetristan331@gmail.com
